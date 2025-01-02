@@ -23,6 +23,12 @@ tipo 5 i6 3 = 8 ....
 vcs podem interferir nos numeros que quiser com este operador 
 criando calculos ele eh muito flexivel..
 
+ele tem operador de negativo -i6- 
+
+5 -i6- 3 = 2 
+
+bem flexível né 
+
 
 
 
